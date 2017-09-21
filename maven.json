@@ -1,0 +1,11 @@
+{
+	"maven": {
+		"type": "object",
+		"properties": {
+			"val1": {
+				"type": "number"
+			}
+		},
+		"additionalProperties": false
+	}
+}
